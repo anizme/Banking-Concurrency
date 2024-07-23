@@ -3,6 +3,6 @@ module com.banking_concurrency {
     requires javafx.fxml;
 
 
-    opens com.banking_concurrency to javafx.fxml;
-    exports com.banking_concurrency;
+    opens com to javafx.fxml;
+    exports com;
 }

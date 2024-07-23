@@ -1,4 +1,4 @@
-package com.banking_concurrency;
+package com;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
